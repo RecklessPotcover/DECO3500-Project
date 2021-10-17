@@ -1,7 +1,5 @@
 # Timely Elderly Fall Rescue Network
 
-## Overview
-
 This is a project for DECO3500 - Social & Mobile Computing.
 
 Documents conducted from the domain research, interviews, survey and questionnaire, low fidelity prototype with its evaluations, medium fidelity prototype with its evaluations, high fidelity prototype with its evaluations are shown in Wiki pages.
