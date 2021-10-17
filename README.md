@@ -1,5 +1,6 @@
 # DECO3500-Project
-This is the repository for DECO3500 - Social &amp; Mobile Computing project. Project name: Emergency and Accident Rescue Network for Elderly Living Alone.
+
+This is the repository for DECO3500 - Social & Mobile Computing project. Project name: Emergency and Accident Rescue Network for Elderly Living Alone.
 
 Documents conducted from the domain research, interviews, survey and questionnaire, low fidelity prototype with its evaluations, medium fidelity prototype with its evaluations, high fidelity prototype with its evaluations are shown in Wiki pages.
 
