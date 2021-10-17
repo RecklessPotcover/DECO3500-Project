@@ -1,7 +1,5 @@
 # Timely Elderly Fall Rescue Network
 
----
-
 ## Overview
 
 This is a project for DECO3500 - Social & Mobile Computing.
@@ -11,8 +9,6 @@ Documents conducted from the domain research, interviews, survey and questionnai
 Individual work share for stand-up presentations, team meetings and other tasks are noted in the form of task tickets on the Issue page.
 
 The low fidelity prototype is made on the Miro platform as the prototype is static and non-functional. Medium fidelity prototype is made on Adobe XD platform and that prototype are partially functional. The high fidelity prototype is made on the Figma platform and Unity platform with great dynamic effects displayed.
-
----
 
 ## Get Started
 
