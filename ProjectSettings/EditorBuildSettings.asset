@@ -9,9 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 7b7b5a0ee22f5495692d20ef4a98abfe
   - enabled: 1
+    path: Assets/Scenes/Elderly.unity
+    guid: 1e810f74c82cf411dadebe436cc585bf
+  - enabled: 1
     path: Assets/Scenes/Outdoor.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Indoor.unity
     guid: 71bcbcf46414c4c7d8d03f2db25a2148
+  - enabled: 1
+    path: Assets/Scenes/Med Outdoor.unity
+    guid: 5719dec993f9345bb8814c8ccf4d8ac7
+  - enabled: 1
+    path: Assets/Scenes/Med Indoor.unity
+    guid: e2396cbd7b0704994978b56fd1ea7e91
   m_configObjects: {}

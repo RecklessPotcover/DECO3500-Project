@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{00F62E8F-313F-0AE1-6E46-2FD7E87D5964}</ProjectGuid>
+    <ProjectGuid>{FC032308-79ED-EAD0-2A36-BAE5DB638AE5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,18 +53,21 @@
     <UnityVersion>2020.3.15f2</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Scene_Loader.cs" />
     <Compile Include="Assets/Scripts/Navigation_Controller.cs" />
     <Compile Include="Assets/Scripts/Cursor_Locker.cs" />
+    <Compile Include="Assets/Scripts/Aim_Info_Controller.cs" />
     <Compile Include="Assets/Scripts/Framerate_Limiter.cs" />
+    <Compile Include="Assets/Scripts/Object_Controller.cs" />
+    <Compile Include="Assets/Scripts/Task_Controller.cs" />
     <Compile Include="Assets/Scripts/SFX_Player.cs" />
     <Compile Include="Assets/Scripts/Password_Lock.cs" />
     <Compile Include="Assets/Scripts/Ray_Shooter.cs" />
     <Compile Include="Assets/Scripts/Lock_Key.cs" />
     <Compile Include="Assets/Scripts/Player_Controller.cs" />
-    <Compile Include="Assets/Scripts/Object_Controller.cs" />
-    <Compile Include="Assets/Scripts/Aim_Info_Controller.cs" />
-    <Compile Include="Assets/Scripts/Task_Controller.cs" />
-    <Compile Include="Assets/Scripts/Scene_Loader.cs" />
+    <Compile Include="Assets/Scripts/Elderly_Fall_Point.cs" />
+    <Compile Include="Assets/Scripts/Med_Controller.cs" />
+    <Compile Include="Assets/Scripts/Force_Cursor_Unlocked.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

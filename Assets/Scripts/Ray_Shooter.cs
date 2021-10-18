@@ -6,10 +6,11 @@ using UnityEngine;
 
 public class Ray_Shooter : MonoBehaviour
 {
+    public string type = "VOLUNTEER";
     public float shootInterval;
     public bool isIndoor;
 
-    new Camera camera;
+    private new Camera camera;
 
     private float timer;
     public bool isCalling;
@@ -51,7 +52,7 @@ public class Ray_Shooter : MonoBehaviour
 
                 }
 
-                if (isIndoor && isCalling)
+                if (isIndoor && (isCalling || type == "MED"))
                 {
                     // Indoor interactions
                     GameObject objects = GameObject.Find("Interactive Objects");
@@ -76,11 +77,16 @@ public class Ray_Shooter : MonoBehaviour
                     {
                         objController.put("Blanket");
                     }
+
+                    if (hittenObject.name == "Elderly Area" && type == "MED")
+                    {
+                        objController.takeElderly();
+                    }
                 }
             }
         }
 
-        if (timer >= shootInterval && isIndoor && isCalling)
+        if (timer >= shootInterval && isIndoor && (isCalling || type == "MED"))
         {
             // Shoot a ray from the center of the camera
             Ray ray = camera.ViewportPointToRay(new Vector3(0.5f, 0.5f));
@@ -120,6 +126,10 @@ public class Ray_Shooter : MonoBehaviour
                     {
                         infoController.setText("[Left Mouse Button] Put Blanket");
                     }
+                }
+                else if (objName == "Elderly Area")
+                {
+                    infoController.setText("[Left Mouse Button] Take the elderly to ambulance");
                 }
                 else
                 {

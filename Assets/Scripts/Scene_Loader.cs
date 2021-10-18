@@ -5,9 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class Scene_Loader : MonoBehaviour
 {
+    public void loadMenu()
+    {
+        SceneManager.LoadScene("Start");
+    }
+
     public void loadElderly()
     {
-
+        SceneManager.LoadScene("Elderly");
     }
 
     public void loadVolunteer()
@@ -17,6 +22,11 @@ public class Scene_Loader : MonoBehaviour
 
     public void loadMedicalStaff()
     {
+        SceneManager.LoadScene("Med Outdoor");
+    }
 
+    public void quitApplication()
+    {
+        Application.Quit();
     }
 }

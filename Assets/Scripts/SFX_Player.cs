@@ -10,7 +10,19 @@ public class SFX_Player : MonoBehaviour
 
     private void enterRoom()
     {
-        SceneManager.LoadScene("Indoor");
+        GameObject player = GameObject.Find("Player");
+        Ray_Shooter rayShooter = player.GetComponent<Ray_Shooter>();
+
+        if (rayShooter.type == "VOLUNTEER")
+        {
+
+            SceneManager.LoadScene("Indoor");
+        }
+        else if (rayShooter.type == "MED")
+        {
+            SceneManager.LoadScene("Med Indoor");
+        }
+
     }
 
     public void play(bool unlocked)

@@ -36,6 +36,25 @@ public class Object_Controller : MonoBehaviour
         }
     }
 
+    private void endMed()
+    {
+        GameObject endCanvas = GameObject.Find("End Canvas");
+        endCanvas.GetComponent<Canvas>().enabled = true;
+
+        GameObject handler = GameObject.Find("Run Environment Handler");
+        Cursor_Locker cursorLocker = handler.GetComponent<Cursor_Locker>();
+
+        cursorLocker.setCursorLocked(false);
+    }
+
+    public void takeElderly()
+    {
+        GameObject elderly = GameObject.Find("The Elderly");
+        elderly.SetActive(false);
+
+        Invoke("endMed", 2);
+    }
+
     public void put(string objectName)
     {
         GameObject targetObject = GameObject.Find(objectName);
@@ -94,10 +113,5 @@ public class Object_Controller : MonoBehaviour
         {
             taskController.setTask("Find a pillow");
         }
-        else
-        {
-            taskController.setTask("You have never meet this situation before. Call the medical staff!");
-        }
-
     }
 }
