@@ -8,7 +8,13 @@ Individual work share for stand-up presentations, team meetings and other tasks 
 
 The low fidelity prototype is made on the Miro platform as the prototype is static and non-functional. Medium fidelity prototype is made on Adobe XD platform and that prototype are partially functional. The high fidelity prototype is made on the Figma platform and Unity platform with great dynamic effects displayed.
 
-## Get Started
+## Try it!
+
+I have hosted a WebGL build of our prototype on GitHub page, you can check it [here](https://recklesspotcover.github.io/DECO3500-Project/)
+
+***Google Chrome and Firefox are recomended for the best experience***
+
+## Build upon it!
 
 Unity Hub version: ***3.0.0-beta.5***
 
