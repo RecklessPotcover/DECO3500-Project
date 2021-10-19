@@ -14,7 +14,7 @@ I have hosted a WebGL build of our prototype on GitHub page, you can check it [h
 
 ***Google Chrome and Firefox are recomended for the best experience***
 
-## Get Started
+## Build upon it!
 
 Unity Hub version: ***3.0.0-beta.5***
 
