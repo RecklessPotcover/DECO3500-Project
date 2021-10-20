@@ -28,7 +28,7 @@ Following platforms have best compatibility:
 - Unity Editor: ***2020.3.15f2***
 - Visual Studio for Mac: ***8.10.11*** (May get warnings when open with Windows version, but they can be easily fixed)
 
-1. Downloaded the [Unity project folder](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing), select **"Add project from disk"** in Unity Hub
+1. Download the [Unity project folder](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing), select **"Add project from disk"** in Unity Hub
 2. Select the repository folder
 3. Click **"open"**
 4. Enjoy!
