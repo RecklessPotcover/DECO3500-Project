@@ -8,6 +8,10 @@ Individual work share for stand-up presentations, team meetings and other tasks 
 
 The low fidelity prototype is made on the Miro platform as the prototype is static and non-functional. Medium fidelity prototype is made on Adobe XD platform and that prototype are partially functional. The high fidelity prototype is made on the Figma platform and Unity platform with great dynamic effects displayed.
 
+## Poster
+
+You can check our promotional Poster on this [Miro](https://miro.com/app/board/o9J_lqrpMvI=/) board
+
 ## Try it!
 
 I have hosted a WebGL build of our prototype on GitHub page, you can check it [here](https://recklesspotcover.github.io/DECO3500-Project/)
