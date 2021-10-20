@@ -16,15 +16,20 @@ You can check our promotional Poster on this [Miro](https://miro.com/app/board/o
 
 I have hosted a WebGL build of our prototype on GitHub page, you can check it [here](https://recklesspotcover.github.io/DECO3500-Project/)
 
-***Google Chrome and Firefox are recomended for the best experience***
+***Using Google Chrome or Firefox provides the best experience. And we don't recomend use full screen mode since there are UI and performance issue***
 
 ## Build upon it!
 
-Unity Hub version: ***3.0.0-beta.5***
+You can download our Unity project folder [here](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing)
 
-Unity Editor version: ***2020.3.15f2***
+Following platforms have best compatibility:
 
-1. After clone this respository, select **"Add project from disk"** in Unity Hub
+- Unity Hub: ***3.0.0-beta.5***
+- Unity Editor: ***2020.3.15f2***
+- Visual Studio for Mac: ***8.10.11*** (May get warnings when open with Windows version, but they can be easily fixed)
+
+1. Downloaded the [Unity project folder](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing), select **"Add project from disk"** in Unity Hub
 2. Select the repository folder
 3. Click **"open"**
 4. Enjoy!
+
