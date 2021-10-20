@@ -10,7 +10,7 @@ The low fidelity prototype is made on the Miro platform as the prototype is stat
 
 ## Poster
 
-You can check our promotional Poster on this [Miro](https://miro.com/app/board/o9J_lqrpMvI=/) board
+You can check our promotional poster on this [Miro](https://miro.com/app/board/o9J_lqrpMvI=/) board
 
 ## Try it!
 
