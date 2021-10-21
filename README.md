@@ -47,7 +47,7 @@ The elderly prefer to choose family and friends as first responders. The elderly
 Most of the survey participants are willing to give help to the elderly.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Interview-and-Interview-Analysis)
-### Low Fedility Prototype
+### Low Fidelity Prototype
 Our low-fidelity model is focused on facilitating the rescue process and daily first aid learning for volunteers.
 ### Heuristic Evaluation
 We chose the illumination assessment as our low-fidelity assessment method.
@@ -68,9 +68,9 @@ We have listed the changes we are going to make in our mid-fidelity prototype.
 - Lack of ability for seniors to select rescue priority.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Low-Fidelity-Prototype)
-### Medium Fedility Prototype
+### Medium Fidelity Prototype
 We made plenty of changes based on the feedback of the Low Fedility Prototype evaluations, some changes include adding “go back” buttons, adding a constraint requirement on the username and password setting. And the design of the elderly side, the elderly or elderly family members can set the priority of rescue.
-### Medium Fedility Prototype Evaluation
+### Medium Fidelity Prototype Evaluation
 The evaluation process includes templates for the three evaluation methods, the test results and the conclusions obtained by the evaluation process.
 #### Think Aloud & Time-on-Task
 We used these two evaluation methods to obtain data for the evaluation process.
@@ -99,7 +99,7 @@ We have listed the changes we are going to make in our high-fidelity prototype.
 - Lack of specific functions for the medical side.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Medium-Fidelity-Prototype)
-### High Fedility Prototype & Unity Userflow Simulation
+### High Fidelity Prototype & Unity Userflow Simulation
 We use Unity to design our high-fidelity models.
 #### Hi-Fi Prototype
 We fixed the volunteer interface interaction and the Lack of address voice entry on the elderly side in the high fidelity prototype. In addition, we also designed the medical side. Previously, the medical side would only receive video calls from volunteers, but now the medical side has an exclusive interface to receive rescue alerts, check vitals and get passwords.
