@@ -50,9 +50,9 @@ To work on the Unity project:
 #### Living Alone
 - Those elderly living alone may not get a rescue in time when accidents happen.
 
-- Increasing in the number of elderly people living alone: Elderly people do not want to be a burden to their families, people are less likely to continue living with their parents after they get married.
+- Increasing in the number of elderly people living alone.
 #### Severity
-- Falls are the leading cause of fatal injuries: Every 11 seconds, an elderly person is brought to the emergency room because of a fall. Every 19 minutes, an elderly person dies as a result of a fall.
+- Falls are the leading cause of fatal injuries.
 
 ### Design Opportunity
 - It is difficult to detect accidents in elderly people who live alone.
@@ -88,13 +88,11 @@ The specific Survey is available on the wiki page. [here](https://github.com/Rec
 ### Low Fidelity Prototype
 Our low-fidelity model is focused on facilitating the rescue process and daily first aid learning for volunteers.
 ### Heuristic Evaluation
-We chose the illumination assessment as our low-fidelity assessment method.
 #### Process
 Users will provide comments on our low-fidelity model based on 10 areas of questions.
 #### Result
 We invited 6 evaluators and gained 18 valuable revised opinions.
 #### Changes
-We have listed the changes we are going to make in our mid-fidelity prototype.
 ##### Shortcomings of the volunteer side
 - The process of entering the home is not smooth enough. 
 
@@ -111,7 +109,7 @@ We made plenty of changes based on the feedback of the Low Fedility Prototype ev
 ### Medium Fidelity Prototype Evaluation
 The evaluation process includes templates for the three evaluation methods, the test results and the conclusions obtained by the evaluation process.
 #### Think Aloud & Time-on-Task
-We used these two evaluation methods to obtain data for the evaluation process.
+
 #### Process
 We used the Time-on-Task evaluation method to observe the time users spent on each page of our mid-fidelity prototype, and the Think aloud evaluation method to record user comments during the evaluation process.
 #### Result
@@ -129,16 +127,16 @@ We used the Time-on-Task evaluation method to observe the time users spent on ea
 18 evaluators were involved in the entire evaluation process. 10 valuable revised opinions were come up with.
 #### Changes
 We have listed the changes we are going to make in our high-fidelity prototype.
-#### Problems still exist on the volunteer side
+##### Problems still exist on the volunteer side
 - User interface interaction is not smooth enough.
-#### Missing functions on the elderly side
+##### Missing functions on the elderly side
 - Lack of address voice entry function.
-#### The medical side is missing
+##### The medical side is missing
 - Lack of specific functions for the medical side.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Medium-Fidelity-Prototype)
 ### High Fidelity Prototype & Unity Userflow Simulation
-We use Unity to design our high-fidelity models.
+.
 #### Hi-Fi Prototype
 We fixed the volunteer interface interaction and the Lack of address voice entry on the elderly side in the high fidelity prototype. In addition, we also designed the medical side. Previously, the medical side would only receive video calls from volunteers, but now the medical side has an exclusive interface to receive rescue alerts, check vitals and get passwords.
 #### Unity
