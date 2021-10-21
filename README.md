@@ -87,9 +87,9 @@ Result
 ## Team Role
 | Member Name | Role |
 | ---- | ---- |
-| Jiacheng(Alex) Ni | Designer, Developer (Unity) |
-| Zewei(Eric) Zhu  |  |
+| Jiacheng(Alex) Ni | Leader, Designer, Developer (Unity) |
+| Zewei(Eric) Zhu  | Designer |
 | He(Gavin) Zhu  | Designer, Developer (Unity) |
-| Yingxin(Evelyn) Liu  |  |
-| Zhenyu(Evan) Ding  | Team Leader, |
-| Kai(Daniel) Wang  |  |
+| Yingxin(Evelyn) Liu  | Leader, Designer |
+| Zhenyu(Evan) Ding  | Leader, Designer |
+| Kai(Daniel) Wang  | Designer, ???  |
