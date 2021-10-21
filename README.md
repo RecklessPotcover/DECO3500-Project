@@ -15,7 +15,7 @@ You can check our promotional poster on this [Miro](https://miro.com/app/board/o
 ## Hi-Fi Prototype
 You can check our prototype for more detial [here](https://www.figma.com/file/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=0%3A1).
 And experience the Volunteer Side [here](https://www.figma.com/proto/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1).
-***(The specific interaction process of Flow 6- Flow 11 will be displayed in Unity!)
+***(The specific interaction process of Flow 6- Flow 11 will be displayed in Unity!)***
 
 ## Try it!
 
