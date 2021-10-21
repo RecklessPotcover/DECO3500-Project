@@ -14,7 +14,7 @@ You can check our promotional poster on this [Miro board](https://miro.com/app/b
 
 There are two parts of our final prototype, app UI implemented by Figma and userflow simulation implemented by Unity.
 
-Figma prototype shows the full volunteer side UI. Elderly and medical side UI, core features userflow are shown in the Unity scene.
+***Figma prototype shows the full volunteer side UI. Elderly and medical side UI, core features userflow are shown in the Unity scene.***
 
 - Experience our prototype [here](https://www.figma.com/proto/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1)
 
