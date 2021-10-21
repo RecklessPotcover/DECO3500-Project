@@ -114,8 +114,6 @@ Fix the remaining problems
 Direction of progress
 - Design a more friendly/silently detection system instead of using a watch to detect elderly falls.
 
-## Poster (Promotional Material)
-
 ## Try it! (Prototype)
 There are two parts of our final prototype, mobile app user interface with Figma and userflow simulation with Unity.
 
