@@ -48,7 +48,7 @@ To work on the Unity project:
 
 ### Problem Space
 #### Living Alone
-- Those elderly living alone may not get a rescue in time when accidents happen.
+- Elderly living alone may not get a rescue in time when accidents happen.
 
 - Increasing in the number of elderly people living alone.
 #### Severity
@@ -62,7 +62,7 @@ To work on the Unity project:
 - As the rescue time grows, the probability of the elderly having an accident also increases dramatically.
 
 ### Our Solution
-Establish a network between the elderly, the volunteers and the medical staff, so that the volunteers can act as an extension of the medical staff's capacity to provide the elderly with the most timely and professional assistance possible.
+Establish a network between the elderly, the volunteers and the medical staff, so that the volunteers can act as an extension of the medical staff's capacity to provide the elderly with the most timely and professional assistance.
 ## Designing and Prototyping Process 
 
 ### Litrature Research
@@ -136,11 +136,10 @@ We have listed the changes we are going to make in our high-fidelity prototype.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Medium-Fidelity-Prototype)
 ### High Fidelity Prototype & Unity Userflow Simulation
-.
 #### Hi-Fi Prototype
 We fixed the volunteer interface interaction and the Lack of address voice entry on the elderly side in the high fidelity prototype. In addition, we also designed the medical side. Previously, the medical side would only receive video calls from volunteers, but now the medical side has an exclusive interface to receive rescue alerts, check vitals and get passwords.
 #### Unity
-To give the user a better understanding of the prototype, Unity scenes were created so that the user could experience the same rescue process in three different capacities, showing interactions that Figma could not interpret, such as verifying the location of the volunteer/medical staff or the automatic page jump when the door is unlocked.
+To give the user a better understanding of the prototype, Unity scenes were created so that the user could experience the same rescue process in three different capacities, showing interactions that Figma could not achieve, such as verifying the location of the volunteer/medical staff or the automatic page jump when the door is unlocked.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/High-Fidelity-Prototype)
 ### Future Direction
@@ -148,7 +147,7 @@ The specific Survey is available on the wiki page. [here](https://github.com/Rec
 - Interface aesthetics problem.
 - Lack of classification of the severity level of falls.
 #### Direction of progress
-- Design a more friendly/silently detection system instead of using a watch to detect elderly falls.
+- Design a more friendly or silently fall detection system instead of smart watches.
 
 ## Team Role
 
