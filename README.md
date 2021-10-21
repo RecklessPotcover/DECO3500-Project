@@ -74,28 +74,28 @@ We made plenty of changes based on the feedback of the Low Fedility Prototype ev
 The evaluation process includes templates for the three evaluation methods, the test results and the conclusions obtained by the evaluation process.
 #### Think Aloud & Time-on-Task
 We used these two evaluation methods to obtain data for the evaluation process.
-###### Process
+#### Process
 We used the Time-on-Task evaluation method to observe the time users spent on each page of our mid-fidelity prototype, and the Think aloud evaluation method to record user comments during the evaluation process.
-###### Result
+#### Result
 - Since each evaluator has a different focus, they spend different amounts of time in different interfaces.
 
 - We collected 8 usability recommendations through the Think Aloud evaluation method.
 #### The Cognitive Walkthrough Evaluation
-##### Process
+#### Process
 1. Define inputs to the walkthrough
 2. Convene the walkthrough
 3. Walkthrough the action sequences for each task
 4. Record critical information
 5. Revise the interface to fix the problems
-###### Result
+#### Result
 18 evaluators were involved in the entire evaluation process. 10 valuable revised opinions were come up with.
 #### Changes
 We have listed the changes we are going to make in our high-fidelity prototype.
-##### Problems still exist on the volunteer side
+#### Problems still exist on the volunteer side
 - User interface interaction is not smooth enough.
-##### Missing functions on the elderly side
+#### Missing functions on the elderly side
 - Lack of address voice entry function.
-##### The medical side is missing
+#### The medical side is missing
 - Lack of specific functions for the medical side.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Medium-Fidelity-Prototype)
