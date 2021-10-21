@@ -20,11 +20,23 @@ Figma prototype shows the full volunteer side UI. Elderly and medical side UI, c
 - Experience our userflow simulation in a Unity scene [here](https://recklesspotcover.github.io/DECO3500-Project/)
 <img width="600" alt="Unity Scene" src="https://user-images.githubusercontent.com/31987631/138313003-63bf17bd-3157-410a-aec6-60b4755f234c.png">
 
-*Use Google Chrome or Firefox for the best experience. Fullscreen mode is not recommended since there are UI and performance issue*
+*This is a WebGL build hosted on GitHub page. Use Google Chrome or Firefox for the best experience. Fullscreen mode is not recommended since there are UI and performance issue*
 
 And we are open for anyone to build upon our project:
-- Our Figma project file [here](https://www.figma.com/file/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=0%3A1)
+- To view our Figma project file [here](https://www.figma.com/file/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=0%3A1)
 - Our Unity project folder is also available, download it [here](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing)
+
+For Unity project, these platforms have the best compatibility:
+- Unity Hub version: ***3.0.0-beta.5***
+- Unity Editor version: ***2020.3.15f2***
+- Visual Studio for Mac: ***8.10.11*** (Open on Windows or Linux may generate warnings, but they can be easily fixed)
+
+To work on the Unity project:
+1. After the download, select ***"Add project from disk"*** in Unity Hub
+2. Select the project folder
+3. Click ***"open"***
+4. You are good to go!
+
 ## Summary
 ### Problem Space
 ### Design Opportunity
@@ -72,3 +84,12 @@ Result
 进步方向
 1. 更 friendly/silently 的检测系统，而不是使用手表
 
+## Team Role
+| Member Name | Role |
+| ---- | ---- |
+| Jiacheng(Alex) Ni | Designer, Developer (Unity) |
+| Zewei(Eric) Zhu  |  |
+| He(Gavin) Zhu  | Designer, Developer (Unity) |
+| Yingxin(Evelyn) Liu  |  |
+| Zhenyu(Evan) Ding  | Team Leader, |
+| Kai(Daniel) Wang  |  |
