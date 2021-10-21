@@ -58,9 +58,9 @@ Result
 ####Changes
 1. 说一下志愿者端的短处(入户过程不够流畅。界面交互逻辑问题，说严重的)
 2. 有增加老人端（优先级）的必要
-### Medium Fedility Prototype
+### Medium Fidelity Prototype
 我们增加了什么功能去迎合上面两个需求
-### Medium Fedility Prototype Evaluation
+### Medium Fidelity Prototype Evaluation
 #### Think Aloud & Time of Task
 Process
 Result
@@ -71,7 +71,7 @@ Result
 1.志愿者端仍存在的问题（界面交互逻辑问题）
 2.老人端的问题（加上地址语音录入）
 3.医疗端的缺失 
-### High Fedility Prototype & Unity Userflow Simulation
+### High Fidelity Prototype & Unity Userflow Simulation
 #### Hi-Fi Prototype
 上面说的俩问题
 加入了医疗端（本来只是志愿者会打来视频通话，现在是医疗端有独享的界面接收救援提醒、查看生命体征和获取密码）
