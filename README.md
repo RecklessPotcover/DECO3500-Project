@@ -64,7 +64,7 @@ To work on the Unity project:
 ### Our Solution
 Establish a network between the elderly, the volunteers and the medical staff, so that the volunteers can act as an extension of the medical staff's capacity to provide the elderly with the most timely and professional assistance possible.
 ## Designing and Prototyping Process 
-From the conceptual design to the final prototype has gone through research verification, prototyping and two rounds of iterations, as detailed below.
+
 ### Litrature Research
 #### Part 1: Domain Research
 A device is needed to monitor the physical and mental health of elderly people living alone in real time and to minimize rescue time.
@@ -81,7 +81,7 @@ The specific Litrature Research & Concept Design is available on the wiki page. 
 ### Survey
 #### Survey the needs of the elderly 
 The elderly prefer to choose family and friends as first responders. The elderly have the need to be rescued.
-####Survey the willingness of potential volunteers 
+#### Survey the willingness of potential volunteers 
 Most of the survey participants are willing to give help to the elderly.
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/Interview-and-Interview-Analysis)
