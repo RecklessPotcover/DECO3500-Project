@@ -1,10 +1,30 @@
 # Timely Elderly Fall Rescue Network
 
 This is a project for DECO3500 - Social & Mobile Computing. It aims at sending timely rescue calls to volunteers when the elderly fall and facilitating volunteers to be instructed by medical staff remotely before they arrive.
+
+Presented by **Hyperdash**.
+
 ## Poster (Promotional Material)
+![DECO3500_Poster](https://user-images.githubusercontent.com/31987631/138314194-482e7e12-80cb-4d09-93e5-fee0992f7fa2.png)
 
-You can check our promotional poster on this [Miro board](https://miro.com/app/board/o9J_lqrpMvI=/)
+You can also check people's comments,questions and our response on this [Miro board](https://miro.com/app/board/o9J_lqrpMvI=/)
 
+## Working Prototype
+There are two parts of our final prototype, app UI implemented by Figma and userflow simulation implemented by Unity.
+
+Figma prototype shows the full volunteer side UI. Elderly and medical side UI, core features userflow are shown in the Unity scene.
+
+- Experience our prototype [here](https://www.figma.com/proto/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1)
+<img width="600" alt="Prototype" src="https://user-images.githubusercontent.com/31987631/138312577-281bfae6-7cff-4935-bd14-9f5810d679a3.png">
+
+- Experience our userflow simulation in a Unity scene [here](https://recklesspotcover.github.io/DECO3500-Project/)
+<img width="600" alt="Unity Scene" src="https://user-images.githubusercontent.com/31987631/138313003-63bf17bd-3157-410a-aec6-60b4755f234c.png">
+
+*Use Google Chrome or Firefox for the best experience. Fullscreen mode is not recommended since there are UI and performance issue*
+
+And we are open for anyone to build upon our project:
+- Our Figma project file [here](https://www.figma.com/file/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=0%3A1)
+- Our Unity project folder is also available, download it [here](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing)
 ## Summary
 ### Problem Space
 ### Design Opportunity
@@ -51,35 +71,4 @@ Result
 2. 跌倒的严重等级分类
 进步方向
 1. 更 friendly/silently 的检测系统，而不是使用手表
-
-## Poster (Promotional Material)
-
-## Try it! (Prototype)
-There are two parts of our final prototype, mobile app user interface with Figma and userflow simulation with Unity.
-
-Experience our Figma project file [here](https://www.figma.com/file/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=0%3A1)
-
-Check our full volunteer side UI [here](https://www.figma.com/proto/G5MCQeT6e8d0DnKPXVCqQG/3500-High-fidelity-prototype?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1)
-
-Experience our userflow simulation in a "Game" [here](https://recklesspotcover.github.io/DECO3500-Project/)
-
-*Our core features, elderly and medical side UI are shown in this game. Use Google Chrome or Firefox for the best experience. Fullscreen mode is not recommended since there are UI and performance issue*
-
-The unity project folder is also available, download it [here](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing)
-
-
-## Build upon it!
-
-You can download our Unity project folder [here](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing)
-
-Following platforms have best compatibility:
-
-- Unity Hub: ***3.0.0-beta.5***
-- Unity Editor: ***2020.3.15f2***
-- Visual Studio for Mac: ***8.10.11*** (May get warnings when open with Windows version, but they can be easily fixed)
-
-1. Download the [Unity project folder](https://drive.google.com/file/d/1UcphixTqav-gnN34lBA_Rwgm_qjmjX1P/view?usp=sharing), select **"Add project from disk"** in Unity Hub
-2. Select the repository folder
-3. Click **"open"**
-4. Enjoy!
 
