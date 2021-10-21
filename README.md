@@ -45,7 +45,6 @@ To work on the Unity project:
 4. You are good to go!
 
 ## Summary
-This is a summary of the workflow of our group. The specific process is as follows.
 
 ### Problem Space
 #### Living Alone
@@ -147,10 +146,10 @@ To give the user a better understanding of the prototype, Unity scenes were crea
 
 The specific Survey is available on the wiki page. [here](https://github.com/RecklessPotcover/DECO3500-Project/wiki/High-Fidelity-Prototype)
 ### Future Direction
-Fix the remaining problems
+#### Fix the remaining problems
 - Interface aesthetics problem.
 - Lack of classification of the severity level of falls.
-Direction of progress
+#### Direction of progress
 - Design a more friendly/silently detection system instead of using a watch to detect elderly falls.
 
 ## Team Role
